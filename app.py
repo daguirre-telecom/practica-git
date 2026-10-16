@@ -7,3 +7,4 @@ def resta(c, d):
     return c - d
 
 print(resta(2, 1))
+print(f"la suma de a y b es: {suma}")
